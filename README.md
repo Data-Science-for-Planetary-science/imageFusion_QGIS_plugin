@@ -1,21 +1,21 @@
 # Spatiotemporal Image Fusion Techniques
 
 
-## Requirements
+## . Requirements
 
-### Windows Operating System
-
-
-### Mac Operating System
+### - Windows Operating System
 
 
-## Installation
-
-### Windows Operating System
+### - Mac Operating System
 
 
-### Mac Operating System
+## . Installation
+
+### - Windows Operating System
+
+
+### - Mac Operating System
 
 
 
-## Manual
+## .Manual
