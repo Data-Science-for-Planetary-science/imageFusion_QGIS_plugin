@@ -26,7 +26,11 @@ Step 5 : Click on "Install Plugin"
 
 ### Mac Operating System
 
-
 ## Manual
 
+Step 1 : Load raster files into QGIS Application.
+
+Step 2 : Click on Image Fusion Plugin Icon.
+
+Step 3 : ![OIP](https://user-images.githubusercontent.com/77494701/233035012-f703cfee-905e-4167-9cf9-c494f06eaa81.jpg)
 
