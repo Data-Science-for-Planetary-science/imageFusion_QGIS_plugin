@@ -31,7 +31,9 @@
 
 ## Installation
 
-Step 1 : Download the "Image Fusion" Plugin folder from the below link. 
+Step 1 : Download the "Image Fusion" Plugin folder from the below github link. 
+
+Link : 
 
 Step 2 : Open QGIS application 
 
