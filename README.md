@@ -14,7 +14,7 @@
 ## Installation
 
 ### Windows Operating System
-Step 1 : Download the QGIS Plugin folder from the below link. 
+Step 1 : Download the "Image Fusion" Plugin folder from the below link. 
 
 Step 2 : Open QGIS application 
 
