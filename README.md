@@ -31,7 +31,6 @@
 
 ## Installation
 
-### Windows Operating System
 Step 1 : Download the "Image Fusion" Plugin folder from the below link. 
 
 Step 2 : Open QGIS application 
@@ -42,7 +41,7 @@ Step 4 : Select "Install from ZIP" and select the zip file
 
 Step 5 : Click on "Install Plugin"
 
-### Mac Operating System
+Reference Manual : 
 
 ## Manual
 
