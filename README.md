@@ -7,9 +7,25 @@
 - numpy
 - scikit-learn
 - geotiff
-- gdal 
+- GDAL
 
+Process to install packages in QGIS Application 
+### Windows Operating System 
+1. Go to OSGeo4W Shell
+2. Enter the following command 
+    > pip install package name (Example : pip install geoAnalytics)
 
+### Mac Operating System 
+1. Go to Python Console in QGIS Application. 
+
+2. Type the following commands and get python path. 
+    > import sys
+    > print(sys.executable)
+    
+    path : /Applications/QGIS.app/Contents/MacOS/bin
+ 
+3. Go to the path in terminal and install the packages
+    > python3.9 -m pip install geoAnalytics
 
 ## Installation
 
@@ -70,4 +86,21 @@ Step 6 : Enter parameter values or use recommend values.
 
 Step 7 : Click on submit button to run the program. 
 
+![Capture1](https://user-images.githubusercontent.com/77494701/233049811-36cb8c9f-6820-466e-9108-4ff2ca51bc70.PNG)
+
+
+
+### Image Fusion Evaluation 
+
+Step 1 : Click on Evaluate tab.
+
+Step 2 : Load predicted file into QGIS Application. Click on Get Layers Button.
+
+Step 3 : Select ground truth and predicted raster layers from the combo box. 
+
+Step 4 : Click on browse button, select output directory and enter output file name. 
+
+Step 5 : Click on submit button to evaluate results. 
+
+![Capture](https://user-images.githubusercontent.com/77494701/233049835-e12882a7-69a1-4c7a-8173-565c95d9b27a.PNG)
 
