@@ -43,7 +43,7 @@ Step 4 : Select "Install from ZIP" and select the zip file
 
 Step 5 : Click on "Install Plugin"
 
-Reference Manual : 
+Reference Manual : https://github.com/Raashika214/QGIS_Plugins/blob/main/Manuals/Installation/InstallationFromZipFile.pdf
 
 ## Manual
 
