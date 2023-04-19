@@ -5,9 +5,9 @@
 - geoAnalytics
 - pyswarms
 - numpy
--scikit-learn
--geotiff
--gdal 
+- scikit-learn
+- geotiff
+- gdal 
 
 
 
