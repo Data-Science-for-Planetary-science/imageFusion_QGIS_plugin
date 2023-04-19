@@ -9,9 +9,11 @@
 - geotiff
 - GDAL
 
-Process to install packages in QGIS Application 
+### Process to install python packages for QGIS Application
+
 ### Windows Operating System 
 1. Go to OSGeo4W Shell
+
 2. Enter the following command 
     > pip install package name (Example : pip install geoAnalytics)
 
