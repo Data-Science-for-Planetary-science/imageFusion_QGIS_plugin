@@ -2,12 +2,12 @@
 
 
 ## Requirements
-geoAnalytics
-pyswarms
-numpy
-scikit-learn
-geotiff
-gdal 
+-geoAnalytics
+-pyswarms
+-numpy
+-scikit-learn
+-geotiff
+-gdal 
 
 
 
