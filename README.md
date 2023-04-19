@@ -2,11 +2,13 @@
 
 
 ## Requirements
+geoAnalytics
+pyswarms
+numpy
+scikit-learn
+geotiff
+gdal 
 
-### Windows Operating System
-
-
-### Mac Operating System
 
 
 ## Installation
