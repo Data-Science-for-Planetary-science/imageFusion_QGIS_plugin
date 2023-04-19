@@ -33,7 +33,7 @@
 
 Step 1 : Download the "Image Fusion" Plugin folder from the below github link. 
 
-Link : https://github.com/udayRage/spatiotemporal_ImageFusion_qGIS_plugin/blob/main/README.md
+Link : https://github.com/udayRage/spatiotemporal_ImageFusion_qGIS_plugin
 
 Step 2 : Open QGIS application 
 
