@@ -18,8 +18,14 @@
      pip install pyswarms;
      pip install numpy;
      pip install -U scikit-learn;
+     pip install scipy;
+     pip install geotiff
      ```
-     GDAL Installation : https://www.bing.com/search?q=gdal+installation+for+windows&qs=n&form=QBRE&sp=-1&lq=0&pq=gdal+installation+for+windows&sc=10-29&sk=&cvid=568AECE00BFC4171B1596E41C8F19672&ghsh=0&ghacc=0&ghpl=
+     GDAL Installation : 
+     [https://www.bing.com/search?q=gdal+installation+for+windows&qs=n&form=QBRE&sp=-1&lq=0&pq=gdal+installation+for+windows&sc=10-29&sk=&cvid=568AECE00BFC4171B1596E41C8F19672&ghsh=0&ghacc=0&ghpl=](url)
+     
+## Mac Operating System
+
 
 ## Needed Python Packages
 - geoAnalytics
