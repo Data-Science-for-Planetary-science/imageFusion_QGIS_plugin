@@ -26,38 +26,35 @@
 
 ![cap1](https://user-images.githubusercontent.com/77494701/233291202-66b37d09-8e39-4841-929b-8f9b61f375af.png)
 
-2. Execute the following python code in Python Console to get Python Path. 
+2. Execute the following python code in Python Console to get Python Path.
 
+    ```
+    import sys
+    print(sys.executable)
+    ```
+<img width="688" alt="Screen Shot 2023-04-20 at 16 29 22" src="https://user-images.githubusercontent.com/77494701/233292878-ddc5a7d0-b519-4b18-b9bd-be79c3ec9cf6.png">
 
+3. Check python version 
 
+    ```
+    sys.version
+    ```
+<img width="612" alt="Screen Shot 2023-04-20 at 16 37 20" src="https://user-images.githubusercontent.com/77494701/233294446-21f4266c-38c0-479e-8cb3-f9755db8bf4b.png">
 
+3. Open terminal and go to the above specified path.
+   
+<img width="612" alt="Screen Shot 2023-04-20 at 16 35 53" src="https://user-images.githubusercontent.com/77494701/233294148-1c93e10b-70d2-4ad8-aa42-cbbdf9a312a7.png">
 
-## Needed Python Packages
-- geoAnalytics
-- pyswarms
-- numpy
-- scikit-learn
-- geotiff
-- GDAL
-
-## Process to install python packages for QGIS Application
-
-
-
-2. Enter the following command 
-    > pip install package name (Example : pip install geoAnalytics)
-
-### Mac Operating System 
-1. Go to Python Console in QGIS Application. 
-
-2. Type the following commands and get python path. 
-    > import sys
-    > print(sys.executable)
+4. Execute the following command in the terminal 
     
-    path : /Applications/QGIS.app/Contents/MacOS/bin
+    ```
+    python3.9 -m pip install geoAnalytics pyswarms numpy scikit-learn scipy geotiff
+    ```
  
-3. Go to the path in terminal and install the packages
-    > python3.9 -m pip install geoAnalytics
+<img width="612" alt="Screen Shot 2023-04-20 at 16 41 23" src="https://user-images.githubusercontent.com/77494701/233296298-13715451-ee45-4fd7-bd11-cbc7df2b1667.png">
+    
+    GDAL Installation : https://mits003.github.io/studio_null/2021/07/install-gdal-on-macos/
+
 
 ## Installation of qGIS plugin
 
