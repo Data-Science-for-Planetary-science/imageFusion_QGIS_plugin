@@ -53,7 +53,7 @@
  
 <img width="612" alt="Screen Shot 2023-04-20 at 16 41 23" src="https://user-images.githubusercontent.com/77494701/233296298-13715451-ee45-4fd7-bd11-cbc7df2b1667.png">
     
-    GDAL Installation : https://mits003.github.io/studio_null/2021/07/install-gdal-on-macos/
+  GDAL Installation : https://mits003.github.io/studio_null/2021/07/install-gdal-on-macos/
 
 
 ## Installation of qGIS plugin
@@ -74,7 +74,10 @@ Reference Manual : https://github.com/Raashika214/QGIS_Plugins/blob/main/Manuals
 
 ## Usage manual
 
-Step 1 : Load raster files into QGIS Application.
+Step 1 : Download Image Fusion Dataset from the following link.
+
+
+Step 2 : Load raster files into QGIS Application.
 
 ![cap1](https://user-images.githubusercontent.com/77494701/233036216-2553649a-2db1-42a3-8452-6b8b52d172f2.png)
 
@@ -135,5 +138,4 @@ Step 5 : Click on submit button to evaluate results.
 ![Capture](https://user-images.githubusercontent.com/77494701/233049835-e12882a7-69a1-4c7a-8173-565c95d9b27a.PNG)
 
 
-fadfa <br />
-ll\
+ <br />
