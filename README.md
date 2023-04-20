@@ -12,19 +12,24 @@
 
 ![Capture](https://user-images.githubusercontent.com/77494701/233246323-7bcebece-42d7-475a-b6a1-58630ab5e894.PNG)
 
-3. Copy and Execute the following commands line-by-line in the OSGeo4W Shell
+3. Copy and Execute the following commands in the OSGeo4W Shell
      ```
-     pip install geoAnalytics;
-     pip install pyswarms;
-     pip install numpy;
-     pip install -U scikit-learn;
-     pip install scipy;
-     pip install geotiff
+     pip install geoAnalytics pyswarms numpy scikit-learn scipy geotiff
      ```
+     
      GDAL Installation : 
      [https://www.bing.com/search?q=gdal+installation+for+windows&qs=n&form=QBRE&sp=-1&lq=0&pq=gdal+installation+for+windows&sc=10-29&sk=&cvid=568AECE00BFC4171B1596E41C8F19672&ghsh=0&ghacc=0&ghpl=](url)
      
 ## Mac Operating System
+
+1. Open Python Console in QGIS Application 
+
+![cap1](https://user-images.githubusercontent.com/77494701/233291202-66b37d09-8e39-4841-929b-8f9b61f375af.png)
+
+2. Execute the following python code in Python Console to get Python Path. 
+
+
+
 
 
 ## Needed Python Packages
@@ -132,3 +137,6 @@ Step 5 : Click on submit button to evaluate results.
 
 ![Capture](https://user-images.githubusercontent.com/77494701/233049835-e12882a7-69a1-4c7a-8173-565c95d9b27a.PNG)
 
+
+fadfa <br />
+ll\
