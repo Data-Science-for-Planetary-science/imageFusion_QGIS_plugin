@@ -1,5 +1,25 @@
 # Spatiotemporal Image Fusion Techniques
 
+## Installation of Python packages for Image Fusion qGIS Plugin.
+
+### Windows Operating System 
+
+1. Search and Open to OSGeo4W Shell
+
+  ![Capture](https://user-images.githubusercontent.com/77494701/233246063-cdb77acb-8789-4dfb-8d22-b3adc583591b.PNG)
+
+2. OSGeo4W Shell appears as below
+
+![Capture](https://user-images.githubusercontent.com/77494701/233246323-7bcebece-42d7-475a-b6a1-58630ab5e894.PNG)
+
+3. Copy and Execute the following commands line-by-line in the OSGeo4W Shell
+     ```
+     pip install geoAnalytics;
+     pip install pyswarms;
+     pip install numpy;
+     pip install -U scikit-learn;
+     ```
+     GDAL Installation : https://www.bing.com/search?q=gdal+installation+for+windows&qs=n&form=QBRE&sp=-1&lq=0&pq=gdal+installation+for+windows&sc=10-29&sk=&cvid=568AECE00BFC4171B1596E41C8F19672&ghsh=0&ghacc=0&ghpl=
 
 ## Needed Python Packages
 - geoAnalytics
@@ -11,8 +31,7 @@
 
 ## Process to install python packages for QGIS Application
 
-### Windows Operating System 
-1. Go to OSGeo4W Shell
+
 
 2. Enter the following command 
     > pip install package name (Example : pip install geoAnalytics)
