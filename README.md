@@ -1,7 +1,7 @@
 # Spatiotemporal Image Fusion Techniques
 
 
-## Requirements
+## Needed Python Packages
 - geoAnalytics
 - pyswarms
 - numpy
@@ -9,7 +9,7 @@
 - geotiff
 - GDAL
 
-### Process to install python packages for QGIS Application
+## Process to install python packages for QGIS Application
 
 ### Windows Operating System 
 1. Go to OSGeo4W Shell
@@ -29,7 +29,7 @@
 3. Go to the path in terminal and install the packages
     > python3.9 -m pip install geoAnalytics
 
-## Installation
+## Installation of qGIS plugin
 
 Step 1 : Download the "Image Fusion" Plugin folder from the below github link. 
 
@@ -45,7 +45,7 @@ Step 5 : Click on "Install Plugin"
 
 Reference Manual : https://github.com/Raashika214/QGIS_Plugins/blob/main/Manuals/Installation/InstallationFromZipFile.pdf
 
-## Manual
+## Usage manual
 
 Step 1 : Load raster files into QGIS Application.
 
