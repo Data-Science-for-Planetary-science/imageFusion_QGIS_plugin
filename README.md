@@ -39,7 +39,7 @@
 4. Execute the following command in the terminal 
     
     ```
-    /Applications/QGIS.app/Contents/MacOS/bin/python3 -m pip geoAnalytics pyswarms numpy scikit-learn scipy geotiff
+    /Applications/QGIS.app/Contents/MacOS/bin/python3 -m pip install geoAnalytics pyswarms numpy scikit-learn scipy geotiff
     ```
  ![Screen Shot 2023-04-28 at 11 53 56](https://user-images.githubusercontent.com/77494701/235043434-e63c1e10-ea0b-4f34-9d5e-eba87bcf18e1.png)
 
