@@ -65,7 +65,8 @@ Reference Manual : https://github.com/Raashika214/QGIS_Plugins/blob/main/Manuals
 
 ## Usage manual
 
-Step 1 : Download Image Fusion Dataset from the following link.
+Step 1 : Download Image Fusion Dataset from the following link:
+           https://data.mendeley.com/datasets/p44n3j8ym5
 
 
 Step 2 : Load raster files into QGIS Application.
